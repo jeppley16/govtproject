@@ -1,0 +1,57 @@
+body {
+	background-color: black;
+	/*background: url(jumbobg.jpg) no-repeat center;*/
+
+	
+}
+
+.container {
+	margin-top: 50px;
+	/*display: flex;*/
+}
+
+.jumbotron {
+	background: url(jumbobg.jpg) no-repeat center;
+	text-align: center;
+	max-width: 1280px;
+    height: 100%;
+    margin-left: auto;
+    margin-right: auto;
+
+	/*display: flex;
+	align-content: center;*/
+}
+
+.display-4 {
+	margin-top: 200px;
+	color: white;
+	font-weight: bold;
+}
+
+.lead {
+	color: white;
+}
+
+.container2 {
+	background-color: rgba(127, 126, 126, .8);
+}
+
+.card {
+	background-color: rgba(127, 126, 126, 1);
+	margin-bottom: 50px;
+	/*height: 300px;*/
+}
+
+.card-img-top {
+	/*height: 200px;*/
+	/*height: 100%;*/
+	/*margin: 15px 15px 15px 15px;*/
+	padding: 15px 15px;
+}
+
+.card-title {
+	color: white;
+}
+.card-text {
+	color: white;
+}
